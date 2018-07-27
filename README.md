@@ -1,6 +1,6 @@
 # ViralityBot
 
-Made a Twitter bot that utilizes Python and the Tweepy API to retweet "viral" tweets.
+Made a Twitter bot that utilizes Python and the Tweepy API to retweet "viral" tweets. This bot was a precursor to another (larger) Python/Twitter project I worked on, "Twitterlytics", which is why there's extra code bits in ViralityBot.py.
 
 <!-- below is template for rest of readme
 
